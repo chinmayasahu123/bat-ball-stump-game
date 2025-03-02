@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.cricket_game{
+background-image: url(image/cricket-equipment-digital-art.jpg);
+background-size: cover;
+}
+h1{
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  color: chartreuse;
+  
+}
+body{
+ text-align: center;
+   
+}
+.logo-btn{
+  width: 100px;
+  height:100px;
+  background: url(image/cricket-bat.png) no-repeat center;
+  background-size: contain;
+  border: none;
+  cursor: pointer;
+}
+.ball-btn{
+  width: 100px;
+  height: 100px;
+  background: url(image/—Pngtree—cricket\ ball_6846615.png) no-repeat center;
+  background-size: contain;
+  border: none;
+  cursor: pointer;
+}
+.stump-btn{
+  width: 100px;
+  height: 100px;
+  background: url(image/—Pngtree—cricket\ stumps_6861395.png) no-repeat center;
+  background-size: contain;
+  border: none;
+  cursor: pointer;
+}
+
